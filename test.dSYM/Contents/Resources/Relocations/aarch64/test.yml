@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jean/Documents/github/INF280_programming_contest/test'
+relocations:     []
+...
